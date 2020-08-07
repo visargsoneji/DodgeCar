@@ -1,4 +1,4 @@
-#DODGE CAR is simple game made using PyGame in Python.
+# DODGE CAR is simple game made using PyGame in Python.
 
 
 To play the game :<br>
