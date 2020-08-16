@@ -10,11 +10,11 @@ To play the game :<br>
 Goal:<br>
     Avoid the blocks from touching the car to make your score as high as possible.<br>
 
-Controls:
-    Left Arrow - To move left
-    Right Arrow - To move right
-    Up Arrow - To move up
-    Down Arrow - To move down
+Controls:<br>
+    Left Arrow - To move left<br>
+    Right Arrow - To move right<br>
+    Up Arrow - To move up<br>
+    Down Arrow - To move down<br>
 
 Shortcuts:
 
