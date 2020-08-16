@@ -10,28 +10,28 @@ To play the game :<br>
 Goal:<br>
     Avoid the blocks from touching the car to make your score as high as possible.<br>
 
-Controls:<br>
-    Left Arrow - To move left<br>
-    Right Arrow - To move right<br>
-    Up Arrow - To move up<br>
-    Down Arrow - To move down<br
+Controls:
+    Left Arrow - To move left
+    Right Arrow - To move right
+    Up Arrow - To move up
+    Down Arrow - To move down
 
-Shortcuts:<br>
+Shortcuts:
 
-    Intro Screen:<br>
-        SPACEBAR - To start<br>
+    Intro Screen:
+        SPACEBAR - To start
 
-    Game Screen:<br>
-        p - To Pause<br>
-        r - To Reset<br>
+    Game Screen:
+        p - To Pause
+        r - To Reset
 
-    Pause Screen:<br>
-        p - To Resume(Play)<br>
-        r - To Reset<br>
-        e - To Exit<br>
+    Pause Screen:
+        p - To Resume(Play)
+        r - To Reset
+        e - To Exit
 
-    Crash Screen:<br>
-        p or r - To Play<br>
-        e - To Exit<br>
+    Crash Screen:
+        p or r - To Play
+        e - To Exit
 
 HAPPY GAMING!!<br>
